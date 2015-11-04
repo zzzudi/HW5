@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/dbHelpers/dbConn.properties</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/controller/AddServlet.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/dbHelpers/ReadQuery.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/web/stylesheet.css</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/controller/Read.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/web/add.jsp</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/web/read.jsp</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/controller/AddForm.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/web/index.jsp</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/dbHelpers/DeleteQuery.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/dbHelpers/AddQuery.java</file>
+            <file>file:/C:/Users/zudi/Documents/NetBeansProjects/MoviesApp/src/java/model/Movies.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,46 @@
+body{
+      background-color:#D2B48C;
+      margin: 8px;
+      border-color: white;
+}
+
+
+
+table, th, td {
+		border: 1px solid white;
+			
+}
+
+table {
+    width: 500 px;
+    background-color: white;
+	
+}
+
+a {
+    color: #696969 ;
+    
+    
+}
+th {
+    height: 50px;
+    text-align: center;
+    background-color:#FFFF99;
+    color:#696969;
+	
+	
+}
+
+
+td{
+    background-color: #F08080;
+    color:#FFFFFF;
+   
+}
+
+form {
+    height:200px;
+    width:350px;
+    padding: 15 px;
+    
+}
