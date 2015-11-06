@@ -8,6 +8,15 @@
         
     </head>
     <body>
+         <div class="wrap">
+
+            <%@ include file="includes/header.jsp" %>
+
+            <%@ include file="includes/menu.jsp" %>
+
+            <div class="main">
+        
+        
         <h1>Add A New Movie</h1>
         
         <form name="addForm" action="addMovie" method="get">
@@ -26,5 +35,14 @@
             <input type="submit" name="submit" value="Submit"/>
             
         </form>
+         </div>
+
+
+            <%@ include file="includes/footer.jsp" %>
+
+        </div>
+           
+        
+        
     </body>
 </html>

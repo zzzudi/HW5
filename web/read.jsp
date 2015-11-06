@@ -14,13 +14,28 @@
     
     
     <body>
+        
+         <div class="wrap">
+
+            <%@ include file="includes/header.jsp" %>
+
+            <%@ include file="includes/menu.jsp" %>
+
+            <div class="main">
+        
         <h1>My favorite movies</h1>
         <%= table %>
         
         <br><br>
         
         <a href ="add">Add A New Movie</a>
-        
-        
+        <br><br>
+        <a href="search.jsp">Search Movies</a>
+          </div>
+
+
+            <%@ include file="includes/footer.jsp" %>
+
+        </div>
     </body>
 </html>
